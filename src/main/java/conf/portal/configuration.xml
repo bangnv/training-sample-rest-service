@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<configuration>
+
+
+	<component>
+		<type>org.exoplatform.cross.rest.UserService</type>
+	</component>
+	
+	<component>
+		<type>org.exoplatform.cross.rest.StringService</type>
+	</component>
+
+	<component>
+		<type>org.exoplatform.cross.rest.CalculService</type>
+	</component>
+
+	<component>
+		<type>org.exoplatform.cross.rest.HelloService</type>
+	</component>
+
+	<component>
+		<type>org.exoplatform.cross.rest.DateService</type>
+	</component>
+
+</configuration>
+
+
